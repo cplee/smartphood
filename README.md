@@ -1,4 +1,4 @@
 smartphood
 ==========
 
-Andoird app to track Dash Diet
+Android app to track Dash Diet
