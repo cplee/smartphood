@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fruit">Fruits</string>
+    <string name="vegetable">Vegetables</string>
+    <string name="grain">Whole Grains</string>
+    <string name="nut">Beans &amp; Nuts</string>
+    <string name="meat">Lean Meat</string>
+    <string name="dairy">Dairy</string>
+    <string name="fat">Sweets &amp; Fats</string>
+    <string name="salt">Salt</string>
+    <string name="rgrain">Refined Grains</string>
+    <string name="water">Water</string>
+    
+    <string name="app_name">Smart Phood</string>
+    
+    <string name="weight">Weight</string>
+    
+    <string name="bloodPressure">Blood Pressure</string>
+    
+    <string name="blank"></string>
+    
+    <string name="diastolic">(diastolic)</string>
+    
+    <string name="systolic">(systolic)</string>
+
+</resources>
